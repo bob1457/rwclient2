@@ -421,7 +421,7 @@ import { CommonModule } from '@angular/common';
       <div class="container">
         <!--  WELCOME  -->
         <div id="welcome">
-          <h1>
+          <h1 class="text-red-500 font-bold">
             <span> Hello there, </span>
             Welcome rwclient2 👋
           </h1>
